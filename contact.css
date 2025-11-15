@@ -1,0 +1,59 @@
+body{
+    background-image: url(pen.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 600px;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+label{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+}
+button{
+    height: 50px;
+    width: 20
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    0px;
+    background-color: darkred;
+    color: black;
+    font-size: 22px;
+    border-radius: 20px;
+}
